@@ -4,7 +4,7 @@ Heart Disease Prediction Using Machine Learning (Logistic Regression) 🫀💻
 This project predicts the risk of heart disease in patients based on various health parameters using Logistic Regression. The model is trained on the Framingham Heart Study dataset, which contains features such as age, cholesterol levels, blood pressure, smoking status, and diabetes history.
 
 🗂️ Dataset
-Dataset Name: Framingham Heart Study
+Dataset Name: Framingham Heart Study(file attached)
 Source: Kaggle
 Target Variable: TenYearCHD (0 = No Heart Disease, 1 = Risk of Heart Disease)
 🔧 Technologies Used
@@ -15,7 +15,6 @@ Logistic Regression (Binary Classification Model)
 🛠️ Installation & Usage
 1️⃣ Open in Google Colab
 Click the button below to open the notebook:
-
 2️⃣ Load the Dataset in Google Colab
 from google.colab import files
 uploaded = files.upload()
