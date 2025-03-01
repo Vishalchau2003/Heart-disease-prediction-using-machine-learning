@@ -2,13 +2,13 @@
 
 ##  Files & Explanation  
 
-1. **Report File  
+1. **Report File** 
    - Detailed explanation of concepts, methodology, and results.  
 
-2. **Colab Notebook  
+2. **Colab Notebook**  
    - Code + Notes explaining each concept with implementation.  
 
-3. **Framingham Dataset 
+3. **Framingham Dataset** 
    - The dataset used for training and testing the model.  
 
 4. **README.md**  
